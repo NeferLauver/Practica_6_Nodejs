@@ -1,0 +1,19 @@
+{
+  "name": "practica_6_nodejs",
+  "version": "1.0.0",
+  "description": "Primer proyecto npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeferLauver/Practica_6_Nodejs.git"
+  },
+  "author": "Nefertari laurel vergara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeferLauver/Practica_6_Nodejs/issues"
+  },
+  "homepage": "https://github.com/NeferLauver/Practica_6_Nodejs#readme"
+}
